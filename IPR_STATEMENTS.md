@@ -4,15 +4,15 @@ This page lists any statements OASIS has received regarding IPR related to the w
 Open Project. OASIS invites any persons who know of such claims to disclose these if they 
 may be essential to the implementation of a project's work product. 
 
-## [ODF Advocacy Open Project](#odf-advocacy)
+## [Ethereum OASIS Open Project](#eth)
 
-https://github.com/ODF-Advocacy/odf-advocacy
+https://github.com/ethereum/oasis-open-project/
 
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
 
-## [Open Services for Lifecycle Collaboration (OSLC) Open Project](#oslc)
+## [ODF Advocacy Open Project](#odf-advocacy)
 
-https://github.com/oslc-op/
+https://github.com/ODF-Advocacy/odf-advocacy
 
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
 
@@ -22,8 +22,12 @@ https://github.com/opencybersecurityalliance
 
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
 
-## [Ethereum OASIS Open Project](#eth)
+## [Open Services for Lifecycle Collaboration (OSLC) Open Project](#oslc)
 
-https://github.com/ethereum/oasis-open-project/
+https://github.com/oslc-op/
 
 OASIS is not aware of any statements or declarations regarding IPR related to the work of this Open Project.
+
+
+
+
